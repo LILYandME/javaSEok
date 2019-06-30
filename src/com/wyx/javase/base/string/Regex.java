@@ -6,6 +6,7 @@ import java.util.regex.*;
  * Regex
  * 正则表达式
  * '.（点号）也是一个正则表达式，它匹配任何一个字符如："a" 或 "1"。'
+ * 解析地址 https://www.cnblogs.com/Mustr/p/6060242.html
  *
  * @author wyx
  * @date 2019/6/30 9:44
@@ -107,5 +108,5 @@ public class Regex {
             System.out.println(s);
         }
     }
-    //
+//next javase04
 }
