@@ -1,4 +1,4 @@
-package com.wyx.javaSE.ExecuteSequence;
+package com.wyx.javase.ExecuteSequence;
 
 class Parent {
     //静态成员变量

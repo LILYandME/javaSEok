@@ -1,4 +1,4 @@
-package com.wyx.javaSE;
+package com.wyx.javase;
 
 import java.util.Scanner;
 
